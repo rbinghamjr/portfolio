@@ -2,6 +2,12 @@ html, body {
   font-family: 'Lato', sans-serif;
 }
 
+body {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: darkgrey !important;
+}
+
 h1 {
   font-size:3em;
   font-family: 'Roboto Condensed', sans-serif;
